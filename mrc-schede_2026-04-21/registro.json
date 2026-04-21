@@ -1,0 +1,26 @@
+{
+  "exportedAt": "2026-04-21T16:48:11.495Z",
+  "version": 2,
+  "count": 1,
+  "schede": [
+    {
+      "progettoAsana": "1200HY armadio LECS prova",
+      "codiceAsana": "1200HY",
+      "fabbricato": "S30",
+      "piano": "-2",
+      "locale": "218",
+      "tipologiaIt": "Armadio",
+      "tipologiaEn": "Cabinet",
+      "carico": "350",
+      "ancorante": "Hilti HY230",
+      "data": "2026-04-21",
+      "pdfLink": "",
+      "noteQr": "Questo è un QR code di prova",
+      "note": "",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S30-2-218_1200HY",
+      "createdAt": "2026-04-21T16:47:05.122Z",
+      "updatedAt": "2026-04-21T16:47:05.122Z"
+    }
+  ]
+}
