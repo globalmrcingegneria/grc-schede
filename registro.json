@@ -1,43 +1,25 @@
 {
-  "exportedAt": "2026-04-21T21:51:55.421Z",
+  "exportedAt": "2026-04-21T22:01:44.896Z",
   "version": 2,
-  "count": 2,
+  "count": 1,
   "schede": [
     {
-      "progettoAsana": "15AA prova di algoritmo di fissaggio",
-      "codiceAsana": "15AA",
-      "codiceCliente": "S02_2502356_01_proviamo insieme",
-      "fabbricato": "S02",
-      "piano": "0",
-      "locale": "15",
-      "tipologiaIt": "Parete cartongesso",
-      "tipologiaEn": "Plasterboard wall",
-      "carico": "50",
-      "ancorante": "HILTI HY500",
-      "meseAnno": "04-2026",
-      "pdfLink": "",
-      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S02-0-15_15AA",
-      "createdAt": "2026-04-21T21:40:42.942Z",
-      "updatedAt": "2026-04-21T21:40:42.942Z"
-    },
-    {
-      "progettoAsana": "1257AA prova",
-      "codiceAsana": "1257AA",
+      "progettoAsana": "1255A progetto di prova",
+      "codiceAsana": "1255A",
       "codiceCliente": "",
-      "fabbricato": "S04",
+      "fabbricato": "S03",
       "piano": "0",
-      "locale": "12",
-      "tipologiaIt": "Lavavetreria",
-      "tipologiaEn": "Glass washer",
-      "carico": "75",
-      "ancorante": "Wurth",
+      "locale": "00",
+      "tipologiaIt": "Boiler",
+      "tipologiaEn": "Boiler",
+      "carico": "250",
+      "ancorante": "HY 255",
       "meseAnno": "04-2026",
-      "pdfLink": "https://www.dropbox.com/scl/fi/be51w00nbdtq8209uacp7/251202_1257A8_aerofotogrammetrico.pdf?rlkey=37bss5433450b9i8m10gzrdct&st=yjayz4ag&dl=0",
+      "pdfLink": "https://www.dropbox.com/scl/fi/be51w00nbdtq8209uacp7/251202_1257A8_aerofotogrammetrico.pdf?rlkey=37bss5433450b9i8m10gzrdct&st=9b1i0asa&dl=0",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S04-0-12_1257AA",
-      "createdAt": "2026-04-21T21:50:17.322Z",
-      "updatedAt": "2026-04-21T21:51:02.949Z"
+      "id": "S03-0-00_1255A",
+      "createdAt": "2026-04-21T22:01:09.768Z",
+      "updatedAt": "2026-04-21T22:01:09.768Z"
     }
   ]
 }
