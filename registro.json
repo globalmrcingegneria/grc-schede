@@ -1,7 +1,7 @@
 {
-  "exportedAt": "2026-04-21T21:41:02.187Z",
+  "exportedAt": "2026-04-21T21:51:55.421Z",
   "version": 2,
-  "count": 1,
+  "count": 2,
   "schede": [
     {
       "progettoAsana": "15AA prova di algoritmo di fissaggio",
@@ -20,6 +20,24 @@
       "id": "S02-0-15_15AA",
       "createdAt": "2026-04-21T21:40:42.942Z",
       "updatedAt": "2026-04-21T21:40:42.942Z"
+    },
+    {
+      "progettoAsana": "1257AA prova",
+      "codiceAsana": "1257AA",
+      "codiceCliente": "",
+      "fabbricato": "S04",
+      "piano": "0",
+      "locale": "12",
+      "tipologiaIt": "Lavavetreria",
+      "tipologiaEn": "Glass washer",
+      "carico": "75",
+      "ancorante": "Wurth",
+      "meseAnno": "04-2026",
+      "pdfLink": "https://www.dropbox.com/scl/fi/be51w00nbdtq8209uacp7/251202_1257A8_aerofotogrammetrico.pdf?rlkey=37bss5433450b9i8m10gzrdct&st=yjayz4ag&dl=0",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S04-0-12_1257AA",
+      "createdAt": "2026-04-21T21:50:17.322Z",
+      "updatedAt": "2026-04-21T21:51:02.949Z"
     }
   ]
 }
