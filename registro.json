@@ -1,0 +1,25 @@
+{
+  "exportedAt": "2026-04-21T21:18:03.754Z",
+  "version": 2,
+  "count": 1,
+  "schede": [
+    {
+      "progettoAsana": "1200HY QR code di prova",
+      "codiceAsana": "1200HY",
+      "codiceCliente": "",
+      "fabbricato": "S08",
+      "piano": "4",
+      "locale": "15",
+      "tipologiaIt": "Armadio",
+      "tipologiaEn": "Cabinet",
+      "carico": "400",
+      "ancorante": "HST S3 / 10",
+      "meseAnno": "04-2026",
+      "pdfLink": "",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S08-4-15_1200HY",
+      "createdAt": "2026-04-21T21:17:09.179Z",
+      "updatedAt": "2026-04-21T21:17:09.179Z"
+    }
+  ]
+}
