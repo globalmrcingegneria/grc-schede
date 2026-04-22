@@ -1,25 +1,25 @@
 {
-  "exportedAt": "2026-04-22T12:57:06.455Z",
+  "exportedAt": "2026-04-22T13:08:39.938Z",
   "version": 2,
   "count": 1,
   "schede": [
     {
-      "progettoAsana": "1200HY S31",
-      "codiceAsana": "1200HY",
+      "progettoAsana": "1200JZ staffaggio cappa",
+      "codiceAsana": "1200JZ",
       "codiceCliente": "XYZ",
-      "fabbricato": "S31",
-      "piano": "-1",
-      "locale": "001",
-      "tipologiaIt": "Sprinkler",
-      "tipologiaEn": "Sprinkler",
-      "carico": "300",
+      "fabbricato": "S09",
+      "piano": "2",
+      "locale": "116",
+      "tipologiaIt": "Cappa",
+      "tipologiaEn": "Hood",
+      "carico": "250",
       "ancorante": "Hilti HST4",
       "meseAnno": "04-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S31-1-001_1200HY",
-      "createdAt": "2026-04-22T12:56:23.201Z",
-      "updatedAt": "2026-04-22T12:56:23.201Z"
+      "id": "S09-2-116_1200JZ",
+      "createdAt": "2026-04-22T13:08:06.618Z",
+      "updatedAt": "2026-04-22T13:08:06.618Z"
     }
   ]
 }
