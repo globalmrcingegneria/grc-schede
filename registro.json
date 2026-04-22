@@ -1,25 +1,25 @@
 {
-  "exportedAt": "2026-04-22T13:08:39.938Z",
+  "exportedAt": "2026-04-22T13:19:51.010Z",
   "version": 2,
   "count": 1,
   "schede": [
     {
-      "progettoAsana": "1200JZ staffaggio cappa",
-      "codiceAsana": "1200JZ",
-      "codiceCliente": "XYZ",
-      "fabbricato": "S09",
-      "piano": "2",
-      "locale": "116",
-      "tipologiaIt": "Cappa",
-      "tipologiaEn": "Hood",
-      "carico": "250",
-      "ancorante": "Hilti HST4",
+      "progettoAsana": "788AB",
+      "codiceAsana": "788AB",
+      "codiceCliente": "xyz",
+      "fabbricato": "B17",
+      "piano": "roof",
+      "locale": "00",
+      "tipologiaIt": "UTA",
+      "tipologiaEn": "UTA",
+      "carico": "500",
+      "ancorante": "Hilti HST3",
       "meseAnno": "04-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S09-2-116_1200JZ",
-      "createdAt": "2026-04-22T13:08:06.618Z",
-      "updatedAt": "2026-04-22T13:08:06.618Z"
+      "id": "B17-roof-00_788AB",
+      "createdAt": "2026-04-22T13:19:24.045Z",
+      "updatedAt": "2026-04-22T13:19:24.045Z"
     }
   ]
 }
