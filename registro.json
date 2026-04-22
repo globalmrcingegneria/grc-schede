@@ -1,25 +1,25 @@
 {
-  "exportedAt": "2026-04-22T12:46:29.900Z",
+  "exportedAt": "2026-04-22T12:57:06.455Z",
   "version": 2,
   "count": 1,
   "schede": [
     {
-      "progettoAsana": "1200IQ staggio cabina armadio",
-      "codiceAsana": "1200IQ",
-      "codiceCliente": "S08_52487A",
-      "fabbricato": "S08",
-      "piano": "1",
-      "locale": "15",
-      "tipologiaIt": "Armadio",
-      "tipologiaEn": "Cabinet",
-      "carico": "400",
-      "ancorante": "WURTH HY350",
+      "progettoAsana": "1200HY S31",
+      "codiceAsana": "1200HY",
+      "codiceCliente": "XYZ",
+      "fabbricato": "S31",
+      "piano": "-1",
+      "locale": "001",
+      "tipologiaIt": "Sprinkler",
+      "tipologiaEn": "Sprinkler",
+      "carico": "300",
+      "ancorante": "Hilti HST4",
       "meseAnno": "04-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S08-1-15_1200IQ",
-      "createdAt": "2026-04-22T12:45:02.035Z",
-      "updatedAt": "2026-04-22T12:45:02.035Z"
+      "id": "S31-1-001_1200HY",
+      "createdAt": "2026-04-22T12:56:23.201Z",
+      "updatedAt": "2026-04-22T12:56:23.201Z"
     }
   ]
 }
