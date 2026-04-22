@@ -1,25 +1,25 @@
 {
-  "exportedAt": "2026-04-21T22:01:44.896Z",
+  "exportedAt": "2026-04-22T12:46:29.900Z",
   "version": 2,
   "count": 1,
   "schede": [
     {
-      "progettoAsana": "1255A progetto di prova",
-      "codiceAsana": "1255A",
-      "codiceCliente": "",
-      "fabbricato": "S03",
-      "piano": "0",
-      "locale": "00",
-      "tipologiaIt": "Boiler",
-      "tipologiaEn": "Boiler",
-      "carico": "250",
-      "ancorante": "HY 255",
+      "progettoAsana": "1200IQ staggio cabina armadio",
+      "codiceAsana": "1200IQ",
+      "codiceCliente": "S08_52487A",
+      "fabbricato": "S08",
+      "piano": "1",
+      "locale": "15",
+      "tipologiaIt": "Armadio",
+      "tipologiaEn": "Cabinet",
+      "carico": "400",
+      "ancorante": "WURTH HY350",
       "meseAnno": "04-2026",
-      "pdfLink": "https://www.dropbox.com/scl/fi/be51w00nbdtq8209uacp7/251202_1257A8_aerofotogrammetrico.pdf?rlkey=37bss5433450b9i8m10gzrdct&st=9b1i0asa&dl=0",
+      "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S03-0-00_1255A",
-      "createdAt": "2026-04-21T22:01:09.768Z",
-      "updatedAt": "2026-04-21T22:01:09.768Z"
+      "id": "S08-1-15_1200IQ",
+      "createdAt": "2026-04-22T12:45:02.035Z",
+      "updatedAt": "2026-04-22T12:45:02.035Z"
     }
   ]
 }
