@@ -1,25 +1,25 @@
 {
-  "exportedAt": "2026-04-22T13:19:51.010Z",
+  "exportedAt": "2026-04-30T08:54:40.678Z",
   "version": 2,
   "count": 1,
   "schede": [
     {
-      "progettoAsana": "788AB",
-      "codiceAsana": "788AB",
-      "codiceCliente": "xyz",
-      "fabbricato": "B17",
-      "piano": "roof",
-      "locale": "00",
-      "tipologiaIt": "UTA",
-      "tipologiaEn": "UTA",
-      "carico": "500",
-      "ancorante": "Hilti HST3",
+      "progettoAsana": "1200JZ S35 Prog staffaggi Cappa biologica loc. 116 (LECS 3255)",
+      "codiceAsana": "1200JZ",
+      "codiceCliente": "S35_260130_Cappa Biologica loc.116 (LECS 3255)",
+      "fabbricato": "S35",
+      "piano": "1",
+      "locale": "116",
+      "tipologiaIt": "Cappa",
+      "tipologiaEn": "Hood",
+      "carico": "210",
+      "ancorante": "Hilti HUS4-H M12",
       "meseAnno": "04-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "B17-roof-00_788AB",
-      "createdAt": "2026-04-22T13:19:24.045Z",
-      "updatedAt": "2026-04-22T13:19:24.045Z"
+      "id": "S35-1-116_1200JZ",
+      "createdAt": "2026-04-30T08:53:17.382Z",
+      "updatedAt": "2026-04-30T08:53:17.382Z"
     }
   ]
 }
