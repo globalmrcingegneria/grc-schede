@@ -1,7 +1,7 @@
 {
-  "exportedAt": "2026-06-05T07:36:27.644Z",
+  "exportedAt": "2026-07-10T08:16:41.144Z",
   "version": 2,
-  "count": 2,
+  "count": 3,
   "schede": [
     {
       "progettoAsana": "1200JZ S35 Prog staffaggi Cappa biologica loc. 116 (LECS 3255)",
@@ -38,6 +38,24 @@
       "id": "S31-1-012_1200KM",
       "createdAt": "2026-06-05T07:36:15.422Z",
       "updatedAt": "2026-06-05T07:36:15.422Z"
+    },
+    {
+      "progettoAsana": "1200KV S10 S28 S31 S35 Prog staffaggi antisismici",
+      "codiceAsana": "1200KV",
+      "codiceCliente": "",
+      "fabbricato": "S28",
+      "piano": "1",
+      "locale": "210",
+      "tipologiaIt": "Armadio",
+      "tipologiaEn": "Cabinet",
+      "carico": "200",
+      "ancorante": "Hilti HUS4 M12",
+      "meseAnno": "07-2026",
+      "pdfLink": "",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S28-1-210_1200KV",
+      "createdAt": "2026-07-10T08:16:05.607Z",
+      "updatedAt": "2026-07-10T08:16:05.607Z"
     }
   ]
 }
