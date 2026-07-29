@@ -1,6 +1,6 @@
 # Schede tecniche MRC Ingegneria
 
-Pacchetto generato il 2026-07-10 dal Gestore Schede MRC v2.
+Pacchetto generato il 2026-07-29 dal Gestore Schede MRC v2.
 
 ## Contenuto
 - `index.html` — indice navigabile delle schede
