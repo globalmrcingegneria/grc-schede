@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-13T10:39:24.064Z",
+  "exportedAt": "2026-08-13T14:35:20.496Z",
   "version": 2,
   "count": 5,
   "schede": [
@@ -78,7 +78,7 @@
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S31_260612_Congelatore Haier DW86L- loc. 012 (LECS 3306)",
+      "codiceCliente": "S31_260612_Congelatore Thermo Fisher TSX50086 - loc.012 (LECS 3307)",
       "fabbricato": "S31",
       "piano": "-1",
       "locale": "012",
@@ -91,7 +91,7 @@
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-1-012_1200LK",
       "createdAt": "2026-08-13T10:39:07.704Z",
-      "updatedAt": "2026-08-13T10:39:07.704Z"
+      "updatedAt": "2026-08-13T14:34:09.110Z"
     }
   ]
 }
