@@ -1,7 +1,7 @@
 {
-  "exportedAt": "2026-08-13T14:46:58.396Z",
+  "exportedAt": "2026-08-13T14:50:49.134Z",
   "version": 2,
-  "count": 5,
+  "count": 4,
   "schede": [
     {
       "progettoAsana": "1200JZ S35 Prog staffaggi Cappa biologica loc. 116 (LECS 3255)",
@@ -60,24 +60,6 @@
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S31_260612_Congelatore Fiocchetti Labor 500 ECT - loc. 019 (LECS 3487)",
-      "fabbricato": "S31",
-      "piano": "-1",
-      "locale": "019",
-      "tipologiaIt": "Frigo",
-      "tipologiaEn": "Refrigerator",
-      "carico": "250",
-      "ancorante": "Hilti HUS-4 M12",
-      "meseAnno": "08-2026",
-      "pdfLink": "",
-      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S31-1-019_1200LK",
-      "createdAt": "2026-08-13T10:24:58.554Z",
-      "updatedAt": "2026-08-13T10:24:58.554Z"
-    },
-    {
-      "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
-      "codiceAsana": "1200LK",
       "codiceCliente": "S31_260612_Congelatore Thermo Fisher TSX50086 - loc.012 (LECS 3307)",
       "fabbricato": "S31",
       "piano": "-1",
@@ -90,8 +72,8 @@
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-1-012_1200LK",
-      "createdAt": "2026-08-13T10:39:07.704Z",
-      "updatedAt": "2026-08-13T14:46:36.128Z"
+      "createdAt": "2026-08-13T14:50:22.285Z",
+      "updatedAt": "2026-08-13T14:50:22.285Z"
     }
   ]
 }
