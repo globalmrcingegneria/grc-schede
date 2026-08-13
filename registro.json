@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-13T08:28:15.538Z",
+  "exportedAt": "2026-08-13T08:46:46.740Z",
   "version": 2,
   "count": 4,
   "schede": [
@@ -60,7 +60,7 @@
     {
       "progettoAsana": "1200LK S31 LECS 3487",
       "codiceAsana": "1200LK",
-      "codiceCliente": "",
+      "codiceCliente": "S31_260612_Congelatore Fiocchetti Labor 500 ECT - loc. 019 (LECS 3487)",
       "fabbricato": "S31",
       "piano": "-1",
       "locale": "019",
@@ -73,7 +73,7 @@
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-1-019_1200LK",
       "createdAt": "2026-08-13T08:27:42.896Z",
-      "updatedAt": "2026-08-13T08:27:42.896Z"
+      "updatedAt": "2026-08-13T08:46:07.553Z"
     }
   ]
 }
