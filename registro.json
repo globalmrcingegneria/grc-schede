@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-13T08:51:02.823Z",
+  "exportedAt": "2026-08-13T10:25:23.272Z",
   "version": 2,
   "count": 4,
   "schede": [
@@ -58,7 +58,7 @@
       "updatedAt": "2026-07-10T08:16:05.607Z"
     },
     {
-      "progettoAsana": "1200LK S31 LECS 3487",
+      "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
       "codiceCliente": "S31_260612_Congelatore Fiocchetti Labor 500 ECT - loc. 019 (LECS 3487)",
       "fabbricato": "S31",
@@ -67,13 +67,13 @@
       "tipologiaIt": "Frigo",
       "tipologiaEn": "Refrigerator",
       "carico": "250",
-      "ancorante": "HILTI HUS-4 M12",
+      "ancorante": "Hilti HUS-4 M12",
       "meseAnno": "08-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-1-019_1200LK",
-      "createdAt": "2026-08-13T08:27:42.896Z",
-      "updatedAt": "2026-08-13T08:50:30.747Z"
+      "createdAt": "2026-08-13T10:24:58.554Z",
+      "updatedAt": "2026-08-13T10:24:58.554Z"
     }
   ]
 }
