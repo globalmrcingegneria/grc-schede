@@ -1,7 +1,7 @@
 {
-  "exportedAt": "2026-08-14T12:23:15.710Z",
+  "exportedAt": "2026-08-14T12:33:13.551Z",
   "version": 2,
-  "count": 5,
+  "count": 6,
   "schede": [
     {
       "progettoAsana": "788AB",
@@ -92,6 +92,24 @@
       "id": "S31-1-012_1200KV",
       "createdAt": "2026-08-14T12:23:02.239Z",
       "updatedAt": "2026-08-14T12:23:02.239Z"
+    },
+    {
+      "progettoAsana": "1200KV",
+      "codiceAsana": "1200KV",
+      "codiceCliente": "S31 Freezer fiocchetti ECT-F (loc. 130/131)",
+      "fabbricato": "S31",
+      "piano": "0",
+      "locale": "130",
+      "tipologiaIt": "Frigo",
+      "tipologiaEn": "Refrigerator",
+      "carico": "150",
+      "ancorante": "Hilti HUS4 M12",
+      "meseAnno": "08-2026",
+      "pdfLink": "",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S31-0-130_1200KV",
+      "createdAt": "2026-08-14T12:33:06.254Z",
+      "updatedAt": "2026-08-14T12:33:06.254Z"
     }
   ]
 }
