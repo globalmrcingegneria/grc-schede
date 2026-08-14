@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-14T13:13:49.086Z",
+  "exportedAt": "2026-08-14T13:25:55.862Z",
   "version": 2,
   "count": 8,
   "schede": [
@@ -114,7 +114,7 @@
     {
       "progettoAsana": "1200KV",
       "codiceAsana": "1200KV",
-      "codiceCliente": "",
+      "codiceCliente": "S31 Freezer fiocchetti ECT-F (loc. 130/131)",
       "fabbricato": "S31",
       "piano": "0",
       "locale": "131",
@@ -127,7 +127,7 @@
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-0-131_1200KV",
       "createdAt": "2026-08-14T12:36:52.874Z",
-      "updatedAt": "2026-08-14T12:36:52.874Z"
+      "updatedAt": "2026-08-14T13:25:40.132Z"
     },
     {
       "progettoAsana": "1200KV",
