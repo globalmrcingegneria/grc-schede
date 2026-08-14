@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-14T08:59:43.545Z",
+  "exportedAt": "2026-08-14T09:18:57.650Z",
   "version": 2,
   "count": 4,
   "schede": [
@@ -60,20 +60,20 @@
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S31_260612_Congelatore AHSI FRCV6 - loc. 204 (LECS 3654)",
+      "codiceCliente": "S31_260612_Congelatore Haier DW86L- loc. 012 (LECS 3306)",
       "fabbricato": "S31",
-      "piano": "1",
-      "locale": "204",
+      "piano": "-1",
+      "locale": "012",
       "tipologiaIt": "Frigo",
       "tipologiaEn": "Refrigerator",
-      "carico": "200",
+      "carico": "400",
       "ancorante": "Hilti HUS4 M12",
       "meseAnno": "08-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S31-1-204_1200LK",
-      "createdAt": "2026-08-14T08:59:34.742Z",
-      "updatedAt": "2026-08-14T08:59:34.742Z"
+      "id": "S31-1-012_1200LK",
+      "createdAt": "2026-08-14T09:18:50.373Z",
+      "updatedAt": "2026-08-14T09:18:50.373Z"
     }
   ]
 }
