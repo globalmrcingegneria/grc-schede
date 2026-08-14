@@ -1,7 +1,7 @@
 {
-  "exportedAt": "2026-08-14T11:00:41.407Z",
+  "exportedAt": "2026-08-14T12:13:52.099Z",
   "version": 2,
-  "count": 3,
+  "count": 4,
   "schede": [
     {
       "progettoAsana": "788AB",
@@ -56,6 +56,24 @@
       "id": "S10-0-008_1200KV",
       "createdAt": "2026-07-29T12:48:40.392Z",
       "updatedAt": "2026-08-14T11:00:00.142Z"
+    },
+    {
+      "progettoAsana": "1200KV",
+      "codiceAsana": "1200KV",
+      "codiceCliente": "S35 Congelatore FRCV6 loc. 108",
+      "fabbricato": "S35",
+      "piano": "1",
+      "locale": "108",
+      "tipologiaIt": "Frigo",
+      "tipologiaEn": "Refrigerator",
+      "carico": "200",
+      "ancorante": "Hilti HUS4 M12",
+      "meseAnno": "08-2026",
+      "pdfLink": "",
+      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
+      "id": "S35-1-108_1200KV",
+      "createdAt": "2026-08-14T12:13:40.018Z",
+      "updatedAt": "2026-08-14T12:13:40.018Z"
     }
   ]
 }
