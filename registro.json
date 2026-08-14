@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-13T16:13:54.864Z",
+  "exportedAt": "2026-08-14T08:32:43.900Z",
   "version": 2,
   "count": 4,
   "schede": [
@@ -60,20 +60,20 @@
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S10_260612_Frigo Liebherr SRF5501 - loc.008 (LECS 3655)",
-      "fabbricato": "S10",
+      "codiceCliente": "S35_260623_Congelatore Fiocchetti 400 ECT -F loc. 155 (LECS 3158)",
+      "fabbricato": "S35",
       "piano": "0",
-      "locale": "008",
+      "locale": "155",
       "tipologiaIt": "Frigo",
       "tipologiaEn": "Refrigerator",
-      "carico": "200",
-      "ancorante": "Hilti HST3 M10",
+      "carico": "250",
+      "ancorante": "Hilti HUS4 M12",
       "meseAnno": "08-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S10-0-008_1200LK",
-      "createdAt": "2026-08-13T16:13:13.157Z",
-      "updatedAt": "2026-08-13T16:13:13.157Z"
+      "id": "S35-0-155_1200LK",
+      "createdAt": "2026-08-14T08:32:22.775Z",
+      "updatedAt": "2026-08-14T08:32:22.775Z"
     }
   ]
 }
