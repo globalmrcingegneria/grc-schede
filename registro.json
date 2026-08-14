@@ -1,66 +1,12 @@
 {
-  "exportedAt": "2026-08-14T09:18:57.650Z",
+  "exportedAt": "2026-08-14T10:57:56.585Z",
   "version": 2,
-  "count": 4,
+  "count": 1,
   "schede": [
-    {
-      "progettoAsana": "1200JZ S35 Prog staffaggi Cappa biologica loc. 116 (LECS 3255)",
-      "codiceAsana": "1200JZ",
-      "codiceCliente": "S35_260130_Cappa Biologica loc.116 (LECS 3255)",
-      "fabbricato": "S35",
-      "piano": "1",
-      "locale": "116",
-      "tipologiaIt": "Cappa",
-      "tipologiaEn": "Hood",
-      "carico": "210",
-      "ancorante": "Hilti HUS4-H M12",
-      "meseAnno": "04-2026",
-      "pdfLink": "",
-      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S35-1-116_1200JZ",
-      "createdAt": "2026-04-30T08:53:17.382Z",
-      "updatedAt": "2026-04-30T08:53:17.382Z"
-    },
-    {
-      "progettoAsana": "1200KM S31 Prog staffaggi Congelatore verticale -80°C loc.012 (LECS 3188)",
-      "codiceAsana": "1200KM",
-      "codiceCliente": "",
-      "fabbricato": "S31",
-      "piano": "-1",
-      "locale": "012",
-      "tipologiaIt": "Frigo",
-      "tipologiaEn": "Refrigerator",
-      "carico": "350",
-      "ancorante": "Hilti HUS4 M12",
-      "meseAnno": "06-2026",
-      "pdfLink": "",
-      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S31-1-012_1200KM",
-      "createdAt": "2026-06-05T07:36:15.422Z",
-      "updatedAt": "2026-06-05T07:36:15.422Z"
-    },
-    {
-      "progettoAsana": "1200KV S10 S28 S31 S35 Prog staffaggi antisismici",
-      "codiceAsana": "1200KV",
-      "codiceCliente": "",
-      "fabbricato": "S28",
-      "piano": "1",
-      "locale": "210",
-      "tipologiaIt": "Armadio",
-      "tipologiaEn": "Cabinet",
-      "carico": "200",
-      "ancorante": "Hilti HUS4 M12",
-      "meseAnno": "07-2026",
-      "pdfLink": "",
-      "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S28-1-210_1200KV",
-      "createdAt": "2026-07-10T08:16:05.607Z",
-      "updatedAt": "2026-07-10T08:16:05.607Z"
-    },
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S31_260612_Congelatore Haier DW86L- loc. 012 (LECS 3306)",
+      "codiceCliente": "S31_260612_Congelatore Thermo Fisher TSX50086 - loc.012 (LECS 3307)",
       "fabbricato": "S31",
       "piano": "-1",
       "locale": "012",
@@ -72,8 +18,8 @@
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
       "id": "S31-1-012_1200LK",
-      "createdAt": "2026-08-14T09:18:50.373Z",
-      "updatedAt": "2026-08-14T09:18:50.373Z"
+      "createdAt": "2026-08-14T10:57:51.090Z",
+      "updatedAt": "2026-08-14T10:57:51.090Z"
     }
   ]
 }
