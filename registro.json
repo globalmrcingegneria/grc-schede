@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-08-14T08:32:43.900Z",
+  "exportedAt": "2026-08-14T08:59:43.545Z",
   "version": 2,
   "count": 4,
   "schede": [
@@ -60,20 +60,20 @@
     {
       "progettoAsana": "1200LK S10 S31 S35 LECS 3306 , LECS 3487, LECS 3307, LECS 3655, LECS 3654, LECS 3158",
       "codiceAsana": "1200LK",
-      "codiceCliente": "S35_260623_Congelatore Fiocchetti 400 ECT -F loc. 155 (LECS 3158)",
-      "fabbricato": "S35",
-      "piano": "0",
-      "locale": "155",
+      "codiceCliente": "S31_260612_Congelatore AHSI FRCV6 - loc. 204 (LECS 3654)",
+      "fabbricato": "S31",
+      "piano": "1",
+      "locale": "204",
       "tipologiaIt": "Frigo",
       "tipologiaEn": "Refrigerator",
-      "carico": "250",
+      "carico": "200",
       "ancorante": "Hilti HUS4 M12",
       "meseAnno": "08-2026",
       "pdfLink": "",
       "baseUrl": "https://globalmrcingegneria.github.io/grc-schede",
-      "id": "S35-0-155_1200LK",
-      "createdAt": "2026-08-14T08:32:22.775Z",
-      "updatedAt": "2026-08-14T08:32:22.775Z"
+      "id": "S31-1-204_1200LK",
+      "createdAt": "2026-08-14T08:59:34.742Z",
+      "updatedAt": "2026-08-14T08:59:34.742Z"
     }
   ]
 }
